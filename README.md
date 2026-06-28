@@ -59,7 +59,7 @@ flight-booking-app
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/flight-booking-app.git
+git clone https://github.com/PatiGeetha/flight-ticket-booking.git
 ```
 
 Go to the project directory
@@ -113,7 +113,7 @@ Add screenshots of:
 
 ## 👨‍💻 Author
 
-Manohar
+Geetha Pati
 B.Tech CSE Student
 Project developed as part of learning **React and Firebase**
 
